@@ -149,7 +149,7 @@ CLASS_MAPPER_BASE = {
     "mikrotik_routeros": MikrotikRouterOsSSH,
     "mikrotik_switchos": MikrotikSwitchOsSSH,
     "mellanox": MellanoxMlnxosSSH,
-    "mellanox_mlnxos": MellanoxMlnxosSSH,
+    "mellanox_mlnxos": LinuxSSH,
     "mrv_lx": MrvLxSSH,
     "mrv_optiswitch": MrvOptiswitchSSH,
     "netapp_cdot": NetAppcDotSSH,
